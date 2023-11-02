@@ -22,10 +22,8 @@ Developed by: DEEPAK RAJ S
 RegisterNumber:  212222240023
 */
 ```
-'''
 Developed by: DEEPAK RAJ S
 RegisterNumber: 212222240023
-'''
 def newtons_method(number,number_iters=100):
     a=float(number)
     for i in range(number_iters):
